@@ -275,6 +275,10 @@ input[type='week'] {
   font-size: 1.15rem;
 }
 
+#friendsApp .app-logo {
+    text-align: center
+}
+
 #friendsApp .welcome-scrn .group-wrp {
   margin: 0 2em;
   padding: 0;
